@@ -178,6 +178,10 @@ section#hero {
     animation: blink 1s infinite step-end;
 }
 
+a.outlink {
+    font-style: italic;
+}
+
 @keyframes blink {
     from, to { opacity: 0; }
     
